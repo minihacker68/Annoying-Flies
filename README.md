@@ -8,6 +8,8 @@ Before starting you will need:
        An Arduino Mega 2560 with a lcd like this: https://www.banggood.com/3_2-Inch-320-X-480-TFT-LCD-Display-Module-Support-Arduino-Mega2560-p-963574.html?cur_warehouse=CN                        
        An SD card, for most of the pictures (they are too big to fit in flash memory)
 
+####INSTRUCTIONS####
+
 There are 2 .zip files, download both on to your computer.
 
 Extract the contents of 'Data files.zip' on to a SD card (preferably blank, about 9MB or more needed) so that there should now be a folder called 'ARDUINO'. Don't rename it or it's contents!!
